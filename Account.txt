@@ -1,0 +1,25 @@
+vivi1- 10.17.154.120 -> log cho sản xuất   12TB ****
+user :admin -  P@ssw0rd
+2- 10.17.154.121 -> log cho sản xuất
+user :admin -  P@ssw0rd
+backup cho 120 
+3 - 10.17.154.123 100TB
+user :admin -  P@ssw0rd
+lưu videos của pass 
+4- 10.17.154.122 100TB  2
+user :admin -  P@ssw0rd
+san sẻ dữ liệu cho 123
+5 -  10.17.154.129   1
+okiadmin -> P@ssw0rd
+100TB -> san sẻ cho 123 
+
+6-  10.17.154.124 - server
+OPTAS (hệ thống quản lý lắp ráp của okiadmin)  ****
+windown server
+administrater   ->  P@ssw0rd
+
+7 - 10.17.154.125 - server
+Backup cho hệ thống 10.17.154.124 *
+
+
+CheckCoutQuest
